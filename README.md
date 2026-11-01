@@ -32,7 +32,7 @@ I enjoy building practical software, exploring machine learning through hands-on
 
 **Databases & Tools**
 
-`PostgreSQL` `Prisma` `Git` `GitHub` `Linux`
+`PostgreSQL` `MongoDB` `Prisma` `Git` `GitHub` `Linux`
 
 ---
 
