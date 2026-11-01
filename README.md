@@ -54,14 +54,6 @@ A machine learning project analyzing CPU thermal data and using predictive model
 
 ---
 
-### 🎬 Movie Recommendation System
-A recommendation system that uses movie data and similarity-based techniques to generate relevant movie recommendations.
-
-**Focus:** Data Processing · Recommendation · Similarity
-
-**Tech:** Python · Pandas · Scikit-learn
-
----
 
 ### 🛒 E-Commerce Backend
 A backend application implementing APIs, database operations and core e-commerce business logic.
